@@ -57,12 +57,3 @@ Submit a pull request for review.
 ### License
 This project is licensed under the MIT `License`. See LICENSE for more details.
 
-```mermaid
-graph LR;
-    A[User Input] --> B[Scan Module];
-    B --> C[File Detection];
-    C --> D[Threat Database];
-    E --> F[Send Email Report];
-    F --> G[Completion];
-```
-
