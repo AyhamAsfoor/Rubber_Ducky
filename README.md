@@ -27,14 +27,14 @@
 
 ## Project Structure
 
-RubberDucky/
+```RubberDucky/
 │
 ├── README.md                # Project overview and setup instructions
 ├── requirements.txt         # List of dependencies
 ├── docs/                    # Documentation on USB threats
 ├── scripts/                 # Code samples and security scripts
 └── examples/                # Educational resources and sample attacks
-
+```
 Contributing
 Contributions are welcome! Please follow these steps:
 
