@@ -57,6 +57,7 @@ Submit a pull request for review.
 ### License
 This project is licensed under the MIT `License`. See LICENSE for more details.
 
+```mermaid
 graph LR;
     A[User Input] --> B[Scan Module];
     B --> C[File Detection];
@@ -64,4 +65,5 @@ graph LR;
     D --> E[Action (Alert, Delete, Quarantine)];
     E --> F[Send Email Report];
     F --> G[Completion];
+```
 
