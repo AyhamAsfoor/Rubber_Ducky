@@ -27,7 +27,8 @@
 
 ## Project Structure
 
-```RubberDucky/
+```
+RubberDucky/
 │
 ├── README.md                # Project overview and setup instructions
 ├── requirements.txt         # List of dependencies
@@ -35,18 +36,17 @@
 ├── scripts/                 # Code samples and security scripts
 └── examples/                # Educational resources and sample attacks
 ```
-Contributing
+### Contributing
 Contributions are welcome! Please follow these steps:
-
-Fork the repository
+1. Fork the repository
    ```bash
    git fork https://github.com/your-username/RubberDucky.git
    ```
-Create a new branch for your feature
+2. Create a new branch for your feature
    ```bash
    git checkout -b main
    ```
-Commit and push your changes
+3. Commit and push your changes
    ```bash
    git add .
    git commit -m "Add your message"
@@ -54,7 +54,7 @@ Commit and push your changes
    ```
 Submit a pull request for review.
 
-License
+### License
 This project is licensed under the MIT `License`. See LICENSE for more details.
 
 
